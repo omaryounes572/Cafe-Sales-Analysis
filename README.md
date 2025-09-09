@@ -30,3 +30,6 @@ Provided recommendations to enhance digital payments and takeaway services.
 SQL Server – Data cleaning and preprocessing.
 
 Microsoft Power BI – Interactive reporting.# Cafe-Sales-Analysis
+
+## 📷 Screenshot
+<img width="789" height="472" alt="image" src="https://github.com/user-attachments/assets/30bf11c2-19fa-4743-a4dd-9f2966d68ddb" />
